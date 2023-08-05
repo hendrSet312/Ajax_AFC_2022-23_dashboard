@@ -1,0 +1,439 @@
+date,season,game_id,name,home_club_name,away_club_name,own_position,round,own_goals,opponent_goals,is_win,is_draw,is_lose,own_manager_name,hosting
+2014-08-03,2014,2457642,johan-cruijff-schaal,PEC Zwolle,Ajax Amsterdam,-1,Final,0,1,0,0,1,Frank de Boer,Away
+2014-08-10,2014,2459593,eredivisie,Ajax Amsterdam,Vitesse Arnhem,1,1. Matchday,4,1,1,0,0,Frank de Boer,Home
+2014-08-17,2014,2459600,eredivisie,AZ Alkmaar,Ajax Amsterdam,2,2. Matchday,3,1,1,0,0,Frank de Boer,Away
+2014-08-24,2014,2459612,eredivisie,Ajax Amsterdam,PSV Eindhoven,3,3. Matchday,1,3,0,0,1,Frank de Boer,Home
+2014-08-31,2014,2459620,eredivisie,FC Groningen,Ajax Amsterdam,7,4. Matchday,0,2,0,0,1,Frank de Boer,Away
+2014-09-13,2014,2459622,eredivisie,Ajax Amsterdam,Heracles Almelo,5,5. Matchday,2,1,1,0,0,Frank de Boer,Home
+2014-09-17,2014,2490853,uefa-champions-league,Ajax Amsterdam,Paris Saint-Germain,-1,Group F,1,1,0,1,0,Frank de Boer,Home
+2014-09-21,2014,2459637,eredivisie,Feyenoord Rotterdam,Ajax Amsterdam,2,6. Matchday,1,0,1,0,0,Frank de Boer,Away
+2014-09-24,2014,2496924,toto-knvb-beker,,Ajax Amsterdam,-1,Second Round,9,0,1,0,0,Frank de Boer,Away
+2014-09-27,2014,2459643,eredivisie,NAC Breda,Ajax Amsterdam,2,7. Matchday,5,2,1,0,0,Frank de Boer,Away
+2014-09-30,2014,2495297,uefa-champions-league,,Ajax Amsterdam,-1,Group F,1,1,0,1,0,Frank de Boer,Away
+2014-10-05,2014,2459657,eredivisie,Ajax Amsterdam,PEC Zwolle,2,8. Matchday,0,0,0,1,0,Frank de Boer,Home
+2014-10-18,2014,2459662,eredivisie,Twente Enschede FC,Ajax Amsterdam,2,9. Matchday,1,1,0,1,0,Frank de Boer,Away
+2014-10-21,2014,2495313,uefa-champions-league,FC Barcelona,Ajax Amsterdam,-1,Group F,1,3,0,0,1,Frank de Boer,Away
+2014-10-25,2014,2459670,eredivisie,Ajax Amsterdam,Go Ahead Eagles,2,10. Matchday,3,1,1,0,0,Frank de Boer,Home
+2014-10-28,2014,2500747,toto-knvb-beker,,Ajax Amsterdam,-1,Third Round,4,0,1,0,0,Frank de Boer,Away
+2014-11-01,2014,2459677,eredivisie,Ajax Amsterdam,FC Dordrecht,2,11. Matchday,4,0,1,0,0,Frank de Boer,Home
+2014-11-05,2014,2495336,uefa-champions-league,Ajax Amsterdam,FC Barcelona,-1,Group F,0,2,0,0,1,Frank de Boer,Home
+2014-11-09,2014,2459689,eredivisie,SC Cambuur Leeuwarden,Ajax Amsterdam,2,12. Matchday,4,2,1,0,0,Frank de Boer,Away
+2014-11-22,2014,2459698,eredivisie,Ajax Amsterdam,SC Heerenveen,2,13. Matchday,4,1,1,0,0,Frank de Boer,Home
+2014-11-25,2014,2495346,uefa-champions-league,Paris Saint-Germain,Ajax Amsterdam,-1,Group F,1,3,0,0,1,Frank de Boer,Away
+2014-11-30,2014,2459708,eredivisie,ADO Den Haag,Ajax Amsterdam,2,14. Matchday,1,1,0,1,0,Frank de Boer,Away
+2014-12-06,2014,2459716,eredivisie,Ajax Amsterdam,Willem II Tilburg,2,15. Matchday,5,0,1,0,0,Frank de Boer,Home
+2014-12-10,2014,2495369,uefa-champions-league,Ajax Amsterdam,,-1,Group F,4,0,1,0,0,Frank de Boer,Home
+2014-12-14,2014,2459726,eredivisie,Ajax Amsterdam,FC Utrecht,2,16. Matchday,3,1,1,0,0,Frank de Boer,Home
+2014-12-18,2014,2509866,toto-knvb-beker,Ajax Amsterdam,Vitesse Arnhem,-1,Round of 16,0,4,0,0,1,Frank de Boer,Home
+2014-12-21,2014,2459737,eredivisie,Excelsior Rotterdam,Ajax Amsterdam,2,17. Matchday,2,0,1,0,0,Frank de Boer,Away
+2015-01-16,2014,2459739,eredivisie,Ajax Amsterdam,FC Groningen,2,18. Matchday,2,0,1,0,0,Frank de Boer,Home
+2015-01-25,2014,2459753,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,2,19. Matchday,0,0,0,1,0,Frank de Boer,Home
+2015-02-01,2014,2459764,eredivisie,Vitesse Arnhem,Ajax Amsterdam,2,20. Matchday,0,1,0,0,1,Frank de Boer,Away
+2015-02-05,2014,2459774,eredivisie,Ajax Amsterdam,AZ Alkmaar,2,21. Matchday,0,1,0,0,1,Frank de Boer,Home
+2015-02-08,2014,2459782,eredivisie,Go Ahead Eagles,Ajax Amsterdam,2,22. Matchday,2,1,1,0,0,Frank de Boer,Away
+2015-02-15,2014,2459792,eredivisie,Ajax Amsterdam,Twente Enschede FC,2,23. Matchday,4,2,1,0,0,Frank de Boer,Home
+2015-02-19,2014,2517532,europa-league,Ajax Amsterdam,,-1,intermediate stage 1st leg,1,0,1,0,0,Frank de Boer,Home
+2015-02-22,2014,2459798,eredivisie,Willem II Tilburg,Ajax Amsterdam,2,24. Matchday,1,1,0,1,0,Frank de Boer,Away
+2015-02-26,2014,2531137,europa-league,,Ajax Amsterdam,-1,intermediate stage 2nd leg,3,0,1,0,0,Frank de Boer,Away
+2015-03-01,2014,2459810,eredivisie,PSV Eindhoven,Ajax Amsterdam,2,25. Matchday,3,1,1,0,0,Frank de Boer,Away
+2015-03-08,2014,2459818,eredivisie,Ajax Amsterdam,Excelsior Rotterdam,2,26. Matchday,1,0,1,0,0,Frank de Boer,Home
+2015-03-12,2014,2538956,europa-league,Dnipro Dnipropetrovsk (-2020),Ajax Amsterdam,-1,last 16 1st leg,0,1,0,0,1,Frank de Boer,Away
+2015-03-15,2014,2459826,eredivisie,SC Heerenveen,Ajax Amsterdam,2,27. Matchday,4,1,1,0,0,Frank de Boer,Away
+2015-03-19,2014,2538964,europa-league,Ajax Amsterdam,Dnipro Dnipropetrovsk (-2020),-1,last 16 2nd leg,2,1,1,0,0,Frank de Boer,Home
+2015-03-22,2014,2459834,eredivisie,Ajax Amsterdam,ADO Den Haag,2,28. Matchday,1,0,1,0,0,Frank de Boer,Home
+2015-04-05,2014,2459843,eredivisie,FC Utrecht,Ajax Amsterdam,2,29. Matchday,1,1,0,1,0,Frank de Boer,Away
+2015-04-11,2014,2459851,eredivisie,Heracles Almelo,Ajax Amsterdam,2,30. Matchday,2,0,1,0,0,Frank de Boer,Away
+2015-04-19,2014,2459863,eredivisie,Ajax Amsterdam,NAC Breda,2,31. Matchday,0,0,0,1,0,Frank de Boer,Home
+2015-04-26,2014,2459871,eredivisie,PEC Zwolle,Ajax Amsterdam,2,32. Matchday,1,1,0,1,0,Frank de Boer,Away
+2015-05-10,2014,2459879,eredivisie,Ajax Amsterdam,SC Cambuur Leeuwarden,2,33. Matchday,3,0,1,0,0,Frank de Boer,Home
+2015-05-17,2014,2459885,eredivisie,FC Dordrecht,Ajax Amsterdam,2,34. Matchday,1,2,0,0,1,Frank de Boer,Away
+2015-07-29,2015,2602932,uefa-champions-league-qualifikation,,Ajax Amsterdam,-1,3rd round 1st leg,2,2,0,1,0,Frank de Boer,Away
+2015-08-04,2015,2602933,uefa-champions-league-qualifikation,Ajax Amsterdam,,-1,3rd round 2nd leg,2,3,0,0,1,Frank de Boer,Home
+2015-08-09,2015,2588896,eredivisie,AZ Alkmaar,Ajax Amsterdam,1,1. Matchday,3,0,1,0,0,Frank de Boer,Away
+2015-08-15,2015,2588902,eredivisie,Ajax Amsterdam,Willem II Tilburg,1,2. Matchday,3,0,1,0,0,Frank de Boer,Home
+2015-08-20,2015,2615062,europa-league-qualifikation,Ajax Amsterdam,,-1,4th round 1st leg,1,0,1,0,0,Frank de Boer,Home
+2015-08-23,2015,2588912,eredivisie,NEC Nijmegen,Ajax Amsterdam,1,3. Matchday,2,0,1,0,0,Frank de Boer,Away
+2015-08-27,2015,2615620,europa-league-qualifikation,,Ajax Amsterdam,-1,4th round 2nd leg,0,0,0,1,0,Frank de Boer,Away
+2015-08-30,2015,2588923,eredivisie,Ajax Amsterdam,ADO Den Haag,1,4. Matchday,4,0,1,0,0,Frank de Boer,Home
+2015-09-12,2015,2588929,eredivisie,Twente Enschede FC,Ajax Amsterdam,1,5. Matchday,2,2,0,1,0,Frank de Boer,Away
+2015-09-17,2015,2618722,europa-league,Ajax Amsterdam,Celtic FC,-1,Group A,2,2,0,1,0,Frank de Boer,Home
+2015-09-20,2015,2588942,eredivisie,Excelsior Rotterdam,Ajax Amsterdam,1,6. Matchday,2,0,1,0,0,Frank de Boer,Away
+2015-09-23,2015,2627518,toto-knvb-beker,Ajax Amsterdam,De Graafschap Doetinchem,-1,Second Round,2,0,1,0,0,Frank de Boer,Home
+2015-09-26,2015,2588947,eredivisie,Ajax Amsterdam,FC Groningen,1,7. Matchday,2,0,1,0,0,Frank de Boer,Home
+2015-10-01,2015,2618750,europa-league,,Ajax Amsterdam,-1,Group A,1,1,0,1,0,Frank de Boer,Away
+2015-10-04,2015,2588960,eredivisie,Ajax Amsterdam,PSV Eindhoven,1,8. Matchday,1,2,0,0,1,Frank de Boer,Home
+2015-10-17,2015,2588965,eredivisie,Heracles Almelo,Ajax Amsterdam,1,9. Matchday,2,0,1,0,0,Frank de Boer,Away
+2015-10-22,2015,2618778,europa-league,Fenerbahce,Ajax Amsterdam,-1,Group A,0,1,0,0,1,Frank de Boer,Away
+2015-10-25,2015,2588978,eredivisie,Vitesse Arnhem,Ajax Amsterdam,1,10. Matchday,3,1,1,0,0,Frank de Boer,Away
+2015-10-28,2015,2629034,toto-knvb-beker,Feyenoord Rotterdam,Ajax Amsterdam,-1,Third Round,0,1,0,0,1,Frank de Boer,Away
+2015-10-31,2015,2588983,eredivisie,Ajax Amsterdam,Roda JC Kerkrade,1,11. Matchday,6,0,1,0,0,Frank de Boer,Home
+2015-11-05,2015,2618780,europa-league,Ajax Amsterdam,Fenerbahce,-1,Group A,0,0,0,1,0,Frank de Boer,Home
+2015-11-08,2015,2588997,eredivisie,Feyenoord Rotterdam,Ajax Amsterdam,1,12. Matchday,1,1,0,1,0,Frank de Boer,Away
+2015-11-21,2015,2589001,eredivisie,Ajax Amsterdam,SC Cambuur Leeuwarden,1,13. Matchday,5,1,1,0,0,Frank de Boer,Home
+2015-11-26,2015,2618782,europa-league,Celtic FC,Ajax Amsterdam,-1,Group A,2,1,1,0,0,Frank de Boer,Away
+2015-11-29,2015,2589013,eredivisie,PEC Zwolle,Ajax Amsterdam,1,14. Matchday,2,0,1,0,0,Frank de Boer,Away
+2015-12-05,2015,2589021,eredivisie,Ajax Amsterdam,SC Heerenveen,1,15. Matchday,5,2,1,0,0,Frank de Boer,Home
+2015-12-10,2015,2618784,europa-league,Ajax Amsterdam,,-1,Group A,1,1,0,1,0,Frank de Boer,Home
+2015-12-13,2015,2589031,eredivisie,FC Utrecht,Ajax Amsterdam,1,16. Matchday,0,1,0,0,1,Frank de Boer,Away
+2015-12-20,2015,2589043,eredivisie,Ajax Amsterdam,De Graafschap Doetinchem,1,17. Matchday,2,1,1,0,0,Frank de Boer,Home
+2016-01-17,2015,2589049,eredivisie,ADO Den Haag,Ajax Amsterdam,1,18. Matchday,1,0,1,0,0,Frank de Boer,Away
+2016-01-23,2015,2589055,eredivisie,Ajax Amsterdam,Vitesse Arnhem,1,19. Matchday,1,0,1,0,0,Frank de Boer,Home
+2016-01-26,2015,2589063,eredivisie,Ajax Amsterdam,Heracles Almelo,1,20. Matchday,0,0,0,1,0,Frank de Boer,Home
+2016-01-31,2015,2589076,eredivisie,Roda JC Kerkrade,Ajax Amsterdam,2,21. Matchday,2,2,0,1,0,Frank de Boer,Away
+2016-02-07,2015,2589085,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,2,22. Matchday,2,1,1,0,0,Frank de Boer,Home
+2016-02-14,2015,2589094,eredivisie,FC Groningen,Ajax Amsterdam,2,23. Matchday,2,1,1,0,0,Frank de Boer,Away
+2016-02-21,2015,2589105,eredivisie,Ajax Amsterdam,Excelsior Rotterdam,2,24. Matchday,3,0,1,0,0,Frank de Boer,Home
+2016-02-28,2015,2589115,eredivisie,Ajax Amsterdam,AZ Alkmaar,2,25. Matchday,4,1,1,0,0,Frank de Boer,Home
+2016-03-06,2015,2589122,eredivisie,Willem II Tilburg,Ajax Amsterdam,2,26. Matchday,4,0,1,0,0,Frank de Boer,Away
+2016-03-13,2015,2589133,eredivisie,Ajax Amsterdam,NEC Nijmegen,2,27. Matchday,2,2,0,1,0,Frank de Boer,Home
+2016-03-20,2015,2589142,eredivisie,PSV Eindhoven,Ajax Amsterdam,1,28. Matchday,2,0,1,0,0,Frank de Boer,Away
+2016-04-03,2015,2589151,eredivisie,Ajax Amsterdam,PEC Zwolle,1,29. Matchday,3,0,1,0,0,Frank de Boer,Home
+2016-04-09,2015,2589154,eredivisie,SC Cambuur Leeuwarden,Ajax Amsterdam,1,30. Matchday,1,0,1,0,0,Frank de Boer,Away
+2016-04-17,2015,2589166,eredivisie,Ajax Amsterdam,FC Utrecht,1,31. Matchday,2,2,0,1,0,Frank de Boer,Home
+2016-04-20,2015,2589176,eredivisie,SC Heerenveen,Ajax Amsterdam,1,32. Matchday,2,0,1,0,0,Frank de Boer,Away
+2016-05-01,2015,2589182,eredivisie,Ajax Amsterdam,Twente Enschede FC,1,33. Matchday,4,0,1,0,0,Frank de Boer,Home
+2016-05-08,2015,2589192,eredivisie,De Graafschap Doetinchem,Ajax Amsterdam,2,34. Matchday,1,1,0,1,0,Frank de Boer,Away
+2016-07-26,2016,2718470,uefa-champions-league-qualifikation,Ajax Amsterdam,PAOK Thessaloniki,-1,3rd round 1st leg,1,1,0,1,0,Peter Bosz,Home
+2016-08-03,2016,2718493,uefa-champions-league-qualifikation,PAOK Thessaloniki,Ajax Amsterdam,-1,3rd round 2nd leg,2,1,1,0,0,Peter Bosz,Away
+2016-08-07,2016,2700633,eredivisie,Sparta Rotterdam,Ajax Amsterdam,4,1. Matchday,3,1,1,0,0,Peter Bosz,Away
+2016-08-13,2016,2700637,eredivisie,Ajax Amsterdam,Roda JC Kerkrade,5,2. Matchday,2,2,0,1,0,Peter Bosz,Home
+2016-08-16,2016,2740119,uefa-champions-league-qualifikation,Ajax Amsterdam,FK Rostov,-1,Qualifying Round 1st leg,1,1,0,1,0,Peter Bosz,Home
+2016-08-20,2016,2700646,eredivisie,Ajax Amsterdam,Willem II Tilburg,8,3. Matchday,1,2,0,0,1,Peter Bosz,Home
+2016-08-24,2016,2740477,uefa-champions-league-qualifikation,FK Rostov,Ajax Amsterdam,-1,Qualifying Round 2nd leg,1,4,0,0,1,Peter Bosz,Away
+2016-08-28,2016,2700660,eredivisie,Go Ahead Eagles,Ajax Amsterdam,4,4. Matchday,3,0,1,0,0,Peter Bosz,Away
+2016-09-11,2016,2700665,eredivisie,Ajax Amsterdam,Vitesse Arnhem,3,5. Matchday,1,0,1,0,0,Peter Bosz,Home
+2016-09-15,2016,2754296,europa-league,Panathinaikos Athens,Ajax Amsterdam,-1,Group G,2,1,1,0,0,Peter Bosz,Away
+2016-09-18,2016,2700679,eredivisie,Heracles Almelo,Ajax Amsterdam,3,6. Matchday,2,0,1,0,0,Peter Bosz,Away
+2016-09-21,2016,2756542,toto-knvb-beker,Ajax Amsterdam,Willem II Tilburg,-1,First Round,5,0,1,0,0,Peter Bosz,Home
+2016-09-24,2016,2700682,eredivisie,Ajax Amsterdam,PEC Zwolle,2,7. Matchday,5,1,1,0,0,Peter Bosz,Home
+2016-09-29,2016,2754319,europa-league,Ajax Amsterdam,Standard Liège,-1,Group G,1,0,1,0,0,Peter Bosz,Home
+2016-10-02,2016,2700694,eredivisie,Ajax Amsterdam,FC Utrecht,2,8. Matchday,3,2,1,0,0,Peter Bosz,Home
+2016-10-16,2016,2700701,eredivisie,ADO Den Haag,Ajax Amsterdam,2,9. Matchday,2,0,1,0,0,Peter Bosz,Away
+2016-10-20,2016,2758695,europa-league,Celta de Vigo,Ajax Amsterdam,-1,Group G,2,2,0,1,0,Peter Bosz,Away
+2016-10-23,2016,2700713,eredivisie,Feyenoord Rotterdam,Ajax Amsterdam,2,10. Matchday,1,1,0,1,0,Peter Bosz,Away
+2016-10-26,2016,2763359,toto-knvb-beker,,Ajax Amsterdam,-1,Second Round,6,1,1,0,0,Peter Bosz,Away
+2016-10-29,2016,2700720,eredivisie,Ajax Amsterdam,Excelsior Rotterdam,2,11. Matchday,1,0,1,0,0,Peter Bosz,Home
+2016-11-03,2016,2758737,europa-league,Ajax Amsterdam,Celta de Vigo,-1,Group G,3,2,1,0,0,Peter Bosz,Home
+2016-11-06,2016,2700731,eredivisie,AZ Alkmaar,Ajax Amsterdam,2,12. Matchday,2,2,0,1,0,Peter Bosz,Away
+2016-11-20,2016,2700737,eredivisie,Ajax Amsterdam,NEC Nijmegen,2,13. Matchday,5,0,1,0,0,Peter Bosz,Home
+2016-11-24,2016,2765894,europa-league,Ajax Amsterdam,Panathinaikos Athens,-1,Group G,2,0,1,0,0,Peter Bosz,Home
+2016-11-27,2016,2700750,eredivisie,SC Heerenveen,Ajax Amsterdam,2,14. Matchday,1,0,1,0,0,Peter Bosz,Away
+2016-12-04,2016,2700756,eredivisie,Ajax Amsterdam,FC Groningen,2,15. Matchday,2,0,1,0,0,Peter Bosz,Home
+2016-12-08,2016,2765931,europa-league,Standard Liège,Ajax Amsterdam,-1,Group G,1,1,0,1,0,Peter Bosz,Away
+2016-12-11,2016,2700769,eredivisie,Twente Enschede FC,Ajax Amsterdam,2,16. Matchday,0,1,0,0,1,Peter Bosz,Away
+2016-12-15,2016,2770666,toto-knvb-beker,SC Cambuur Leeuwarden,Ajax Amsterdam,-1,Round of 16,1,2,0,0,1,Peter Bosz,Away
+2016-12-18,2016,2700778,eredivisie,Ajax Amsterdam,PSV Eindhoven,2,17. Matchday,1,1,0,1,0,Peter Bosz,Home
+2017-01-15,2016,2700785,eredivisie,PEC Zwolle,Ajax Amsterdam,2,18. Matchday,3,1,1,0,0,Peter Bosz,Away
+2017-01-22,2016,2700793,eredivisie,FC Utrecht,Ajax Amsterdam,2,19. Matchday,1,0,1,0,0,Peter Bosz,Away
+2017-01-29,2016,2700803,eredivisie,Ajax Amsterdam,ADO Den Haag,2,20. Matchday,3,0,1,0,0,Peter Bosz,Home
+2017-02-05,2016,2700811,eredivisie,Roda JC Kerkrade,Ajax Amsterdam,2,21. Matchday,2,0,1,0,0,Peter Bosz,Away
+2017-02-12,2016,2700821,eredivisie,Ajax Amsterdam,Sparta Rotterdam,2,22. Matchday,2,0,1,0,0,Peter Bosz,Home
+2017-02-16,2016,2805654,europa-league,,Ajax Amsterdam,-1,intermediate stage 1st leg,0,0,0,1,0,Peter Bosz,Away
+2017-02-19,2016,2700830,eredivisie,Vitesse Arnhem,Ajax Amsterdam,2,23. Matchday,1,0,1,0,0,Peter Bosz,Away
+2017-02-23,2016,2805670,europa-league,Ajax Amsterdam,,-1,intermediate stage 2nd leg,1,0,1,0,0,Peter Bosz,Home
+2017-02-26,2016,2700841,eredivisie,Ajax Amsterdam,Heracles Almelo,2,24. Matchday,4,1,1,0,0,Peter Bosz,Home
+2017-03-05,2016,2700848,eredivisie,FC Groningen,Ajax Amsterdam,2,25. Matchday,1,1,0,1,0,Peter Bosz,Away
+2017-03-09,2016,2831524,europa-league,FC Copenhagen,Ajax Amsterdam,-1,last 16 1st leg,1,2,0,0,1,Peter Bosz,Away
+2017-03-12,2016,2700859,eredivisie,Ajax Amsterdam,Twente Enschede FC,2,26. Matchday,3,0,1,0,0,Peter Bosz,Home
+2017-03-16,2016,2831538,europa-league,Ajax Amsterdam,FC Copenhagen,-1,last 16 2nd leg,2,0,1,0,0,Peter Bosz,Home
+2017-03-19,2016,2700867,eredivisie,Excelsior Rotterdam,Ajax Amsterdam,2,27. Matchday,1,1,0,1,0,Peter Bosz,Away
+2017-04-02,2016,2700876,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,2,28. Matchday,2,1,1,0,0,Peter Bosz,Home
+2017-04-05,2016,2700880,eredivisie,Ajax Amsterdam,AZ Alkmaar,2,29. Matchday,4,1,1,0,0,Peter Bosz,Home
+2017-04-08,2016,2700890,eredivisie,NEC Nijmegen,Ajax Amsterdam,2,30. Matchday,5,1,1,0,0,Peter Bosz,Away
+2017-04-13,2016,2840955,europa-league,Ajax Amsterdam,FC Schalke 04,-1,Quarter-Finals 1st leg,2,0,1,0,0,Peter Bosz,Home
+2017-04-16,2016,2700904,eredivisie,Ajax Amsterdam,SC Heerenveen,2,31. Matchday,5,1,1,0,0,Peter Bosz,Home
+2017-04-20,2016,2840959,europa-league,FC Schalke 04,Ajax Amsterdam,-1,Quarter-Finals 2nd leg,2,3,0,0,1,Peter Bosz,Away
+2017-04-23,2016,2700913,eredivisie,PSV Eindhoven,Ajax Amsterdam,2,32. Matchday,0,1,0,0,1,Peter Bosz,Away
+2017-05-03,2016,2849358,europa-league,Ajax Amsterdam,Olympique Lyon,-1,Semi-Finals 1st Leg,4,1,1,0,0,Peter Bosz,Home
+2017-05-07,2016,2700914,eredivisie,Ajax Amsterdam,Go Ahead Eagles,2,33. Matchday,4,0,1,0,0,Peter Bosz,Home
+2017-05-11,2016,2849360,europa-league,Olympique Lyon,Ajax Amsterdam,-1,Semi-Finals 2nd Leg,1,3,0,0,1,Peter Bosz,Away
+2017-05-14,2016,2700929,eredivisie,Willem II Tilburg,Ajax Amsterdam,2,34. Matchday,3,1,1,0,0,Peter Bosz,Away
+2017-05-24,2016,2854014,europa-league,Ajax Amsterdam,Manchester United,-1,Final,0,2,0,0,1,Peter Bosz,Home
+2017-07-26,2017,2887554,uefa-champions-league-qualifikation,OGC Nice,Ajax Amsterdam,-1,3rd round 1st leg,1,1,0,1,0,Marcel Keizer,Away
+2017-08-02,2017,2887570,uefa-champions-league-qualifikation,Ajax Amsterdam,OGC Nice,-1,3rd round 2nd leg,2,2,0,1,0,Marcel Keizer,Home
+2017-08-12,2017,2864910,eredivisie,Heracles Almelo,Ajax Amsterdam,12,1. Matchday,1,2,0,0,1,Marcel Keizer,Away
+2017-08-17,2017,2904759,europa-league-qualifikation,Ajax Amsterdam,,-1,4th round 1st leg,0,1,0,0,1,Marcel Keizer,Home
+2017-08-20,2017,2864955,eredivisie,Ajax Amsterdam,FC Groningen,8,2. Matchday,3,1,1,0,0,Marcel Keizer,Home
+2017-08-24,2017,2905545,europa-league-qualifikation,,Ajax Amsterdam,-1,4th round 2nd leg,2,3,0,0,1,Marcel Keizer,Away
+2017-08-27,2017,2864997,eredivisie,VVV-Venlo,Ajax Amsterdam,6,3. Matchday,2,0,1,0,0,Marcel Keizer,Away
+2017-09-09,2017,2865021,eredivisie,Ajax Amsterdam,PEC Zwolle,3,4. Matchday,3,0,1,0,0,Marcel Keizer,Home
+2017-09-17,2017,2865034,eredivisie,ADO Den Haag,Ajax Amsterdam,6,5. Matchday,1,1,0,1,0,Marcel Keizer,Away
+2017-09-20,2017,2920488,toto-knvb-beker,,Ajax Amsterdam,-1,First Round,5,1,1,0,0,Marcel Keizer,Away
+2017-09-24,2017,2865038,eredivisie,Ajax Amsterdam,Vitesse Arnhem,7,6. Matchday,1,2,0,0,1,Marcel Keizer,Home
+2017-10-01,2017,2865064,eredivisie,SC Heerenveen,Ajax Amsterdam,6,7. Matchday,4,0,1,0,0,Marcel Keizer,Away
+2017-10-14,2017,2865068,eredivisie,Ajax Amsterdam,Sparta Rotterdam,2,8. Matchday,4,0,1,0,0,Marcel Keizer,Home
+2017-10-22,2017,2865082,eredivisie,Feyenoord Rotterdam,Ajax Amsterdam,2,9. Matchday,4,1,1,0,0,Marcel Keizer,Away
+2017-10-25,2017,2928262,toto-knvb-beker,,Ajax Amsterdam,-1,Second Round,4,1,1,0,0,Marcel Keizer,Away
+2017-10-28,2017,2865088,eredivisie,Willem II Tilburg,Ajax Amsterdam,2,10. Matchday,3,1,1,0,0,Marcel Keizer,Away
+2017-11-05,2017,2865100,eredivisie,Ajax Amsterdam,FC Utrecht,2,11. Matchday,1,2,0,0,1,Marcel Keizer,Home
+2017-11-18,2017,2865125,eredivisie,NAC Breda,Ajax Amsterdam,2,12. Matchday,8,0,1,0,0,Marcel Keizer,Away
+2017-11-26,2017,2865139,eredivisie,Ajax Amsterdam,Roda JC Kerkrade,2,13. Matchday,5,1,1,0,0,Marcel Keizer,Home
+2017-12-02,2017,2867372,eredivisie,Twente Enschede FC,Ajax Amsterdam,3,14. Matchday,3,3,0,1,0,Marcel Keizer,Away
+2017-12-10,2017,2867403,eredivisie,Ajax Amsterdam,PSV Eindhoven,3,15. Matchday,3,0,1,0,0,Marcel Keizer,Home
+2017-12-14,2017,2867593,eredivisie,Ajax Amsterdam,Excelsior Rotterdam,2,16. Matchday,3,1,1,0,0,Marcel Keizer,Home
+2017-12-17,2017,2867601,eredivisie,AZ Alkmaar,Ajax Amsterdam,2,17. Matchday,2,1,1,0,0,Marcel Keizer,Away
+2017-12-20,2017,2950342,toto-knvb-beker,Twente Enschede FC,Ajax Amsterdam,-1,Round of 16,6,7,0,0,1,Marcel Keizer,Away
+2017-12-24,2017,2870888,eredivisie,Ajax Amsterdam,Willem II Tilburg,2,18. Matchday,3,1,1,0,0,Michael Reiziger,Home
+2018-01-21,2017,2877281,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,2,19. Matchday,2,0,1,0,0,Erik ten Hag,Home
+2018-01-28,2017,2877295,eredivisie,FC Utrecht,Ajax Amsterdam,2,20. Matchday,0,0,0,1,0,Erik ten Hag,Away
+2018-02-04,2017,2877314,eredivisie,Ajax Amsterdam,NAC Breda,2,21. Matchday,3,1,1,0,0,Erik ten Hag,Home
+2018-02-07,2017,2877328,eredivisie,Roda JC Kerkrade,Ajax Amsterdam,2,22. Matchday,4,2,1,0,0,Erik ten Hag,Away
+2018-02-11,2017,2877343,eredivisie,Ajax Amsterdam,Twente Enschede FC,2,23. Matchday,2,1,1,0,0,Erik ten Hag,Home
+2018-02-18,2017,2877819,eredivisie,PEC Zwolle,Ajax Amsterdam,2,24. Matchday,1,0,1,0,0,Erik ten Hag,Away
+2018-02-25,2017,2888295,eredivisie,Ajax Amsterdam,ADO Den Haag,2,25. Matchday,0,0,0,1,0,Erik ten Hag,Home
+2018-03-04,2017,2888306,eredivisie,Vitesse Arnhem,Ajax Amsterdam,2,26. Matchday,2,3,0,0,1,Erik ten Hag,Away
+2018-03-11,2017,2888315,eredivisie,Ajax Amsterdam,SC Heerenveen,2,27. Matchday,4,1,1,0,0,Erik ten Hag,Home
+2018-03-18,2017,2888323,eredivisie,Sparta Rotterdam,Ajax Amsterdam,2,28. Matchday,5,2,1,0,0,Erik ten Hag,Away
+2018-04-01,2017,2888333,eredivisie,FC Groningen,Ajax Amsterdam,2,29. Matchday,2,1,1,0,0,Erik ten Hag,Away
+2018-04-08,2017,2888357,eredivisie,Ajax Amsterdam,Heracles Almelo,2,30. Matchday,1,0,1,0,0,Erik ten Hag,Home
+2018-04-15,2017,2888373,eredivisie,PSV Eindhoven,Ajax Amsterdam,2,31. Matchday,0,3,0,0,1,Erik ten Hag,Away
+2018-04-19,2017,2888393,eredivisie,Ajax Amsterdam,VVV-Venlo,2,32. Matchday,4,1,1,0,0,Erik ten Hag,Home
+2018-04-29,2017,2888407,eredivisie,Ajax Amsterdam,AZ Alkmaar,2,33. Matchday,3,0,1,0,0,Erik ten Hag,Home
+2018-05-06,2017,2888419,eredivisie,Excelsior Rotterdam,Ajax Amsterdam,2,34. Matchday,2,1,1,0,0,Erik ten Hag,Away
+2018-07-25,2018,3052504,uefa-champions-league-qualifikation,Ajax Amsterdam,,-1,Second Round 1st leg,2,0,1,0,0,Erik ten Hag,Home
+2018-08-01,2018,3052506,uefa-champions-league-qualifikation,,Ajax Amsterdam,-1,Second Round 2nd leg,3,1,1,0,0,Erik ten Hag,Away
+2018-08-07,2018,3086870,uefa-champions-league-qualifikation,Standard Liège,Ajax Amsterdam,-1,3rd round 1st leg,2,2,0,1,0,Erik ten Hag,Away
+2018-08-11,2018,3052109,eredivisie,Ajax Amsterdam,Heracles Almelo,8,1. Matchday,1,1,0,1,0,Erik ten Hag,Home
+2018-08-14,2018,3086871,uefa-champions-league-qualifikation,Ajax Amsterdam,Standard Liège,-1,3rd round 2nd leg,3,0,1,0,0,Erik ten Hag,Home
+2018-08-18,2018,3052118,eredivisie,VVV-Venlo,Ajax Amsterdam,6,2. Matchday,1,0,1,0,0,Erik ten Hag,Away
+2018-08-22,2018,3092958,uefa-champions-league-qualifikation,Ajax Amsterdam,Dynamo Kyiv,-1,Qualifying Round 1st leg,3,1,1,0,0,Erik ten Hag,Home
+2018-08-25,2018,3052135,eredivisie,Ajax Amsterdam,FC Emmen,3,3. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2018-08-28,2018,3092959,uefa-champions-league-qualifikation,Dynamo Kyiv,Ajax Amsterdam,-1,Qualifying Round 2nd leg,0,0,0,1,0,Erik ten Hag,Away
+2018-09-02,2018,3052150,eredivisie,Vitesse Arnhem,Ajax Amsterdam,2,4. Matchday,4,0,1,0,0,Erik ten Hag,Away
+2018-09-15,2018,3055068,eredivisie,Ajax Amsterdam,FC Groningen,2,5. Matchday,3,0,1,0,0,Erik ten Hag,Home
+2018-09-19,2018,3097963,uefa-champions-league,Ajax Amsterdam,AEK Athens,-1,Group E,3,0,1,0,0,Erik ten Hag,Home
+2018-09-23,2018,3061055,eredivisie,PSV Eindhoven,Ajax Amsterdam,2,6. Matchday,0,3,0,0,1,Erik ten Hag,Away
+2018-09-26,2018,3097399,toto-knvb-beker,,Ajax Amsterdam,-1,First Round,7,0,1,0,0,Erik ten Hag,Away
+2018-09-29,2018,3061059,eredivisie,Fortuna Sittard,Ajax Amsterdam,2,7. Matchday,2,0,1,0,0,Erik ten Hag,Away
+2018-10-02,2018,3097987,uefa-champions-league,Bayern Munich,Ajax Amsterdam,-1,Group E,1,1,0,1,0,Erik ten Hag,Away
+2018-10-07,2018,3061073,eredivisie,Ajax Amsterdam,AZ Alkmaar,2,8. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2018-10-20,2018,3061077,eredivisie,SC Heerenveen,Ajax Amsterdam,2,9. Matchday,4,0,1,0,0,Erik ten Hag,Away
+2018-10-23,2018,3098003,uefa-champions-league,Ajax Amsterdam,SL Benfica,-1,Group E,1,0,1,0,0,Erik ten Hag,Home
+2018-10-28,2018,3061089,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,2,10. Matchday,3,0,1,0,0,Erik ten Hag,Home
+2018-10-31,2018,3112800,toto-knvb-beker,Ajax Amsterdam,Go Ahead Eagles,-1,Second Round,3,0,1,0,0,Erik ten Hag,Home
+2018-11-03,2018,3077230,eredivisie,Ajax Amsterdam,Willem II Tilburg,2,11. Matchday,2,0,1,0,0,Erik ten Hag,Home
+2018-11-07,2018,3098020,uefa-champions-league,SL Benfica,Ajax Amsterdam,-1,Group E,1,1,0,1,0,Erik ten Hag,Away
+2018-11-11,2018,3077243,eredivisie,Excelsior Rotterdam,Ajax Amsterdam,2,12. Matchday,7,1,1,0,0,Erik ten Hag,Away
+2018-11-24,2018,3077248,eredivisie,NAC Breda,Ajax Amsterdam,2,13. Matchday,3,0,1,0,0,Erik ten Hag,Away
+2018-11-27,2018,3098036,uefa-champions-league,AEK Athens,Ajax Amsterdam,-1,Group E,2,0,1,0,0,Erik ten Hag,Away
+2018-12-02,2018,3077260,eredivisie,Ajax Amsterdam,ADO Den Haag,2,14. Matchday,5,1,1,0,0,Erik ten Hag,Home
+2018-12-08,2018,3077267,eredivisie,PEC Zwolle,Ajax Amsterdam,2,15. Matchday,4,1,1,0,0,Erik ten Hag,Away
+2018-12-12,2018,3098052,uefa-champions-league,Ajax Amsterdam,Bayern Munich,-1,Group E,3,3,0,1,0,Erik ten Hag,Home
+2018-12-16,2018,3077279,eredivisie,Ajax Amsterdam,De Graafschap Doetinchem,2,16. Matchday,8,0,1,0,0,Erik ten Hag,Home
+2018-12-19,2018,3122359,toto-knvb-beker,Roda JC Kerkrade,Ajax Amsterdam,-1,Round of 16,5,3,1,0,0,Erik ten Hag,Away
+2018-12-23,2018,3077287,eredivisie,FC Utrecht,Ajax Amsterdam,2,17. Matchday,3,1,1,0,0,Erik ten Hag,Away
+2019-01-20,2018,3141066,eredivisie,Ajax Amsterdam,SC Heerenveen,2,18. Matchday,4,4,0,1,0,Erik ten Hag,Home
+2019-01-24,2018,3137422,toto-knvb-beker,Ajax Amsterdam,SC Heerenveen,-1,Quarter-Finals,3,1,1,0,0,Erik ten Hag,Home
+2019-01-27,2018,3141067,eredivisie,Feyenoord Rotterdam,Ajax Amsterdam,2,19. Matchday,2,6,0,0,1,Erik ten Hag,Away
+2019-02-02,2018,3141069,eredivisie,Ajax Amsterdam,VVV-Venlo,2,20. Matchday,6,0,1,0,0,Erik ten Hag,Home
+2019-02-09,2018,3141095,eredivisie,Heracles Almelo,Ajax Amsterdam,2,21. Matchday,0,1,0,0,1,Erik ten Hag,Away
+2019-02-13,2018,3135802,uefa-champions-league,Ajax Amsterdam,Real Madrid,-1,last 16 1st leg,1,2,0,0,1,Erik ten Hag,Home
+2019-02-17,2018,3141108,eredivisie,Ajax Amsterdam,NAC Breda,2,22. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2019-02-24,2018,3141117,eredivisie,ADO Den Haag,Ajax Amsterdam,2,23. Matchday,5,1,1,0,0,Erik ten Hag,Away
+2019-02-27,2018,3151158,toto-knvb-beker,Feyenoord Rotterdam,Ajax Amsterdam,-1,Semi-Finals,3,0,1,0,0,Erik ten Hag,Away
+2019-03-05,2018,3135812,uefa-champions-league,Real Madrid,Ajax Amsterdam,-1,last 16 2nd leg,4,1,1,0,0,Erik ten Hag,Away
+2019-03-10,2018,3141139,eredivisie,Ajax Amsterdam,Fortuna Sittard,2,25. Matchday,4,0,1,0,0,Erik ten Hag,Home
+2019-03-13,2018,3141129,eredivisie,Ajax Amsterdam,PEC Zwolle,2,24. Matchday,2,1,1,0,0,Erik ten Hag,Home
+2019-03-17,2018,3141144,eredivisie,AZ Alkmaar,Ajax Amsterdam,2,26. Matchday,0,1,0,0,1,Erik ten Hag,Away
+2019-03-31,2018,3141156,eredivisie,Ajax Amsterdam,PSV Eindhoven,2,27. Matchday,3,1,1,0,0,Erik ten Hag,Home
+2019-04-03,2018,3141147,eredivisie,FC Emmen,Ajax Amsterdam,2,28. Matchday,5,2,1,0,0,Erik ten Hag,Away
+2019-04-06,2018,3141167,eredivisie,Willem II Tilburg,Ajax Amsterdam,1,29. Matchday,4,1,1,0,0,Erik ten Hag,Away
+2019-04-10,2018,3167761,uefa-champions-league,Ajax Amsterdam,Juventus FC,-1,Quarter-Finals 1st leg,1,1,0,1,0,Erik ten Hag,Home
+2019-04-13,2018,3141171,eredivisie,Ajax Amsterdam,Excelsior Rotterdam,1,30. Matchday,6,2,1,0,0,Erik ten Hag,Home
+2019-04-16,2018,3167762,uefa-champions-league,Juventus FC,Ajax Amsterdam,-1,Quarter-Finals 2nd leg,2,1,1,0,0,Erik ten Hag,Away
+2019-04-20,2018,3141182,eredivisie,FC Groningen,Ajax Amsterdam,1,31. Matchday,1,0,1,0,0,Erik ten Hag,Away
+2019-04-23,2018,3141194,eredivisie,Ajax Amsterdam,Vitesse Arnhem,1,32. Matchday,4,2,1,0,0,Erik ten Hag,Home
+2019-04-30,2018,3177023,uefa-champions-league,Tottenham Hotspur,Ajax Amsterdam,-1,Semi-Finals 1st Leg,1,0,1,0,0,Erik ten Hag,Away
+2019-05-05,2018,3165153,toto-knvb-beker,Willem II Tilburg,Ajax Amsterdam,-1,Final,4,0,1,0,0,Erik ten Hag,Away
+2019-05-08,2018,3177024,uefa-champions-league,Ajax Amsterdam,Tottenham Hotspur,-1,Semi-Finals 2nd Leg,2,3,0,0,1,Erik ten Hag,Home
+2019-05-12,2018,3141085,eredivisie,Ajax Amsterdam,FC Utrecht,1,33. Matchday,4,1,1,0,0,Erik ten Hag,Home
+2019-05-15,2018,3141202,eredivisie,De Graafschap Doetinchem,Ajax Amsterdam,1,34. Matchday,4,1,1,0,0,Erik ten Hag,Away
+2019-07-27,2019,3224106,johan-cruijff-schaal,Ajax Amsterdam,PSV Eindhoven,-1,Final,2,0,1,0,0,Erik ten Hag,Home
+2019-08-03,2019,3212114,eredivisie,Vitesse Arnhem,Ajax Amsterdam,7,1. Matchday,2,2,0,1,0,Erik ten Hag,Away
+2019-08-06,2019,3225448,uefa-champions-league-qualifikation,PAOK Thessaloniki,Ajax Amsterdam,-1,3rd round 1st leg,2,2,0,1,0,Erik ten Hag,Away
+2019-08-10,2019,3216040,eredivisie,Ajax Amsterdam,FC Emmen,3,2. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2019-08-13,2019,3225449,uefa-champions-league-qualifikation,Ajax Amsterdam,PAOK Thessaloniki,-1,3rd round 2nd leg,3,2,1,0,0,Erik ten Hag,Home
+2019-08-17,2019,3216048,eredivisie,VVV-Venlo,Ajax Amsterdam,1,3. Matchday,4,1,1,0,0,Erik ten Hag,Away
+2019-08-20,2019,3243582,uefa-champions-league-qualifikation,,Ajax Amsterdam,-1,Qualifying Round 1st leg,0,0,0,1,0,Erik ten Hag,Away
+2019-08-28,2019,3243583,uefa-champions-league-qualifikation,Ajax Amsterdam,,-1,Qualifying Round 2nd leg,2,0,1,0,0,Erik ten Hag,Home
+2019-09-01,2019,3216071,eredivisie,Sparta Rotterdam,Ajax Amsterdam,1,5. Matchday,4,1,1,0,0,Erik ten Hag,Away
+2019-09-14,2019,3216078,eredivisie,Ajax Amsterdam,SC Heerenveen,1,6. Matchday,4,1,1,0,0,Erik ten Hag,Home
+2019-09-17,2019,3252160,uefa-champions-league,Ajax Amsterdam,LOSC Lille,-1,Group H,3,0,1,0,0,Erik ten Hag,Home
+2019-09-22,2019,3216089,eredivisie,PSV Eindhoven,Ajax Amsterdam,1,7. Matchday,1,1,0,1,0,Erik ten Hag,Away
+2019-09-25,2019,3216064,eredivisie,Ajax Amsterdam,Fortuna Sittard,1,4. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2019-09-28,2019,3216095,eredivisie,Ajax Amsterdam,FC Groningen,1,8. Matchday,2,0,1,0,0,Erik ten Hag,Home
+2019-10-02,2019,3252177,uefa-champions-league,Valencia CF,Ajax Amsterdam,-1,Group H,3,0,1,0,0,Erik ten Hag,Away
+2019-10-06,2019,3216106,eredivisie,ADO Den Haag,Ajax Amsterdam,1,9. Matchday,2,0,1,0,0,Erik ten Hag,Away
+2019-10-19,2019,3216113,eredivisie,RKC Waalwijk,Ajax Amsterdam,1,10. Matchday,2,1,1,0,0,Erik ten Hag,Away
+2019-10-23,2019,3252200,uefa-champions-league,Ajax Amsterdam,Chelsea FC,-1,Group H,0,1,0,0,1,Erik ten Hag,Home
+2019-10-27,2019,3216127,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,1,11. Matchday,4,0,1,0,0,Erik ten Hag,Home
+2019-11-01,2019,3216132,eredivisie,PEC Zwolle,Ajax Amsterdam,1,12. Matchday,4,2,1,0,0,Erik ten Hag,Away
+2019-11-05,2019,3252208,uefa-champions-league,Chelsea FC,Ajax Amsterdam,-1,Group H,4,4,0,1,0,Erik ten Hag,Away
+2019-11-10,2019,3216144,eredivisie,Ajax Amsterdam,FC Utrecht,1,13. Matchday,4,0,1,0,0,Erik ten Hag,Home
+2019-11-23,2019,3216149,eredivisie,Ajax Amsterdam,Heracles Almelo,1,14. Matchday,4,1,1,0,0,Erik ten Hag,Home
+2019-11-27,2019,3252233,uefa-champions-league,LOSC Lille,Ajax Amsterdam,-1,Group H,2,0,1,0,0,Erik ten Hag,Away
+2019-12-01,2019,3216161,eredivisie,Twente Enschede FC,Ajax Amsterdam,1,15. Matchday,5,2,1,0,0,Erik ten Hag,Away
+2019-12-06,2019,3216165,eredivisie,Ajax Amsterdam,Willem II Tilburg,1,16. Matchday,0,2,0,0,1,Erik ten Hag,Home
+2019-12-10,2019,3252240,uefa-champions-league,Ajax Amsterdam,Valencia CF,-1,Group H,0,1,0,0,1,Erik ten Hag,Home
+2019-12-15,2019,3216178,eredivisie,AZ Alkmaar,Ajax Amsterdam,1,17. Matchday,0,1,0,0,1,Erik ten Hag,Away
+2019-12-18,2019,3277194,toto-knvb-beker,,Ajax Amsterdam,-1,Second Round,4,3,1,0,0,Erik ten Hag,Away
+2019-12-22,2019,3216187,eredivisie,Ajax Amsterdam,ADO Den Haag,1,18. Matchday,6,1,1,0,0,Erik ten Hag,Home
+2020-01-19,2019,3216197,eredivisie,Ajax Amsterdam,Sparta Rotterdam,1,19. Matchday,2,1,1,0,0,Erik ten Hag,Home
+2020-01-22,2019,3296153,toto-knvb-beker,Ajax Amsterdam,,-1,Round of 16,7,0,1,0,0,Erik ten Hag,Home
+2020-01-26,2019,3216206,eredivisie,FC Groningen,Ajax Amsterdam,1,20. Matchday,1,2,0,0,1,Erik ten Hag,Away
+2020-02-02,2019,3216217,eredivisie,Ajax Amsterdam,PSV Eindhoven,1,21. Matchday,1,0,1,0,0,Erik ten Hag,Home
+2020-02-12,2019,3310076,toto-knvb-beker,Vitesse Arnhem,Ajax Amsterdam,-1,Quarter-Finals,3,0,1,0,0,Erik ten Hag,Away
+2020-02-16,2019,3216234,eredivisie,Ajax Amsterdam,RKC Waalwijk,1,23. Matchday,3,0,1,0,0,Erik ten Hag,Home
+2020-02-20,2019,3291985,europa-league,Getafe CF,Ajax Amsterdam,-1,intermediate stage 1st leg,0,2,0,0,1,Erik ten Hag,Away
+2020-02-23,2019,3216244,eredivisie,Heracles Almelo,Ajax Amsterdam,1,24. Matchday,0,1,0,0,1,Erik ten Hag,Away
+2020-02-27,2019,3292001,europa-league,Ajax Amsterdam,Getafe CF,-1,intermediate stage 2nd leg,2,1,1,0,0,Erik ten Hag,Home
+2020-03-01,2019,3216253,eredivisie,Ajax Amsterdam,AZ Alkmaar,1,25. Matchday,0,2,0,0,1,Erik ten Hag,Home
+2020-03-04,2019,3323332,toto-knvb-beker,FC Utrecht,Ajax Amsterdam,-1,Semi-Finals,0,2,0,0,1,Erik ten Hag,Away
+2020-03-07,2019,3216256,eredivisie,SC Heerenveen,Ajax Amsterdam,1,26. Matchday,3,1,1,0,0,Erik ten Hag,Away
+2020-09-13,2020,3402195,eredivisie,Sparta Rotterdam,Ajax Amsterdam,7,1. Matchday,1,0,1,0,0,Erik ten Hag,Away
+2020-09-20,2020,3450553,eredivisie,Ajax Amsterdam,RKC Waalwijk,2,2. Matchday,3,0,1,0,0,Erik ten Hag,Home
+2020-09-26,2020,3450575,eredivisie,Ajax Amsterdam,Vitesse Arnhem,1,3. Matchday,2,1,1,0,0,Erik ten Hag,Home
+2020-10-04,2020,3450591,eredivisie,FC Groningen,Ajax Amsterdam,5,4. Matchday,0,1,0,0,1,Erik ten Hag,Away
+2020-10-18,2020,3450524,eredivisie,Ajax Amsterdam,SC Heerenveen,2,5. Matchday,5,1,1,0,0,Erik ten Hag,Home
+2020-10-21,2020,3461716,uefa-champions-league,Ajax Amsterdam,Liverpool FC,-1,Group D,0,1,0,0,1,Erik ten Hag,Home
+2020-10-24,2020,3450515,eredivisie,VVV-Venlo,Ajax Amsterdam,1,6. Matchday,13,0,1,0,0,Erik ten Hag,Away
+2020-10-27,2020,3461740,uefa-champions-league,Atalanta BC,Ajax Amsterdam,-1,Group D,2,2,0,1,0,Erik ten Hag,Away
+2020-10-31,2020,3450530,eredivisie,Ajax Amsterdam,Fortuna Sittard,1,7. Matchday,5,2,1,0,0,Erik ten Hag,Home
+2020-11-03,2020,3461755,uefa-champions-league,FC Midtjylland,Ajax Amsterdam,-1,Group D,2,1,1,0,0,Erik ten Hag,Away
+2020-11-08,2020,3450597,eredivisie,FC Utrecht,Ajax Amsterdam,1,8. Matchday,3,0,1,0,0,Erik ten Hag,Away
+2020-11-22,2020,3450529,eredivisie,Ajax Amsterdam,Heracles Almelo,1,9. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2020-11-25,2020,3461772,uefa-champions-league,Ajax Amsterdam,FC Midtjylland,-1,Group D,3,1,1,0,0,Erik ten Hag,Home
+2020-11-28,2020,3450543,eredivisie,FC Emmen,Ajax Amsterdam,1,10. Matchday,5,0,1,0,0,Erik ten Hag,Away
+2020-12-01,2020,3461782,uefa-champions-league,Liverpool FC,Ajax Amsterdam,-1,Group D,0,1,0,0,1,Erik ten Hag,Away
+2020-12-05,2020,3450592,eredivisie,Ajax Amsterdam,Twente Enschede FC,1,11. Matchday,1,2,0,0,1,Erik ten Hag,Home
+2020-12-09,2020,3461814,uefa-champions-league,Ajax Amsterdam,Atalanta BC,-1,Group D,0,1,0,0,1,Erik ten Hag,Home
+2020-12-12,2020,3450567,eredivisie,Ajax Amsterdam,PEC Zwolle,1,12. Matchday,4,0,1,0,0,Erik ten Hag,Home
+2020-12-16,2020,3488577,toto-knvb-beker,Ajax Amsterdam,FC Utrecht,-1,Second Round,5,4,1,0,0,Erik ten Hag,Home
+2020-12-20,2020,3450610,eredivisie,ADO Den Haag,Ajax Amsterdam,1,13. Matchday,4,2,1,0,0,Erik ten Hag,Away
+2020-12-23,2020,3450538,eredivisie,Willem II Tilburg,Ajax Amsterdam,1,14. Matchday,1,1,0,1,0,Erik ten Hag,Away
+2021-01-10,2020,3450589,eredivisie,Ajax Amsterdam,PSV Eindhoven,1,15. Matchday,2,2,0,1,0,Erik ten Hag,Home
+2021-01-14,2020,3450624,eredivisie,Twente Enschede FC,Ajax Amsterdam,1,16. Matchday,3,1,1,0,0,Erik ten Hag,Away
+2021-01-17,2020,3450704,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,1,17. Matchday,1,0,1,0,0,Erik ten Hag,Home
+2021-01-20,2020,3498000,toto-knvb-beker,AZ Alkmaar,Ajax Amsterdam,-1,Round of 16,1,0,1,0,0,Erik ten Hag,Away
+2021-01-24,2020,3450664,eredivisie,Fortuna Sittard,Ajax Amsterdam,1,18. Matchday,2,1,1,0,0,Erik ten Hag,Away
+2021-01-28,2020,3450748,eredivisie,Ajax Amsterdam,Willem II Tilburg,1,19. Matchday,3,1,1,0,0,Erik ten Hag,Home
+2021-01-31,2020,3450747,eredivisie,AZ Alkmaar,Ajax Amsterdam,1,20. Matchday,3,0,1,0,0,Erik ten Hag,Away
+2021-02-10,2020,3509551,toto-knvb-beker,Ajax Amsterdam,PSV Eindhoven,-1,Quarter-Finals,2,1,1,0,0,Erik ten Hag,Home
+2021-02-13,2020,3450753,eredivisie,Heracles Almelo,Ajax Amsterdam,1,22. Matchday,2,0,1,0,0,Erik ten Hag,Away
+2021-02-18,2020,3496482,europa-league,LOSC Lille,Ajax Amsterdam,-1,intermediate stage 1st leg,2,1,1,0,0,Erik ten Hag,Away
+2021-02-21,2020,3450680,eredivisie,Ajax Amsterdam,Sparta Rotterdam,1,23. Matchday,4,2,1,0,0,Erik ten Hag,Home
+2021-02-25,2020,3496497,europa-league,Ajax Amsterdam,LOSC Lille,-1,intermediate stage 2nd leg,2,1,1,0,0,Erik ten Hag,Home
+2021-02-28,2020,3450788,eredivisie,PSV Eindhoven,Ajax Amsterdam,1,24. Matchday,1,1,0,1,0,Erik ten Hag,Away
+2021-03-03,2020,3523357,toto-knvb-beker,SC Heerenveen,Ajax Amsterdam,-1,Semi-Finals,3,0,1,0,0,Erik ten Hag,Away
+2021-03-07,2020,3450657,eredivisie,Ajax Amsterdam,FC Groningen,1,25. Matchday,3,1,1,0,0,Erik ten Hag,Home
+2021-03-11,2020,3528467,europa-league,Ajax Amsterdam,,-1,last 16 1st leg,3,0,1,0,0,Erik ten Hag,Home
+2021-03-14,2020,3450706,eredivisie,PEC Zwolle,Ajax Amsterdam,1,26. Matchday,2,0,1,0,0,Erik ten Hag,Away
+2021-03-18,2020,3528475,europa-league,,Ajax Amsterdam,-1,last 16 2nd leg,2,0,1,0,0,Erik ten Hag,Away
+2021-03-21,2020,3450723,eredivisie,Ajax Amsterdam,ADO Den Haag,1,27. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2021-04-04,2020,3450685,eredivisie,SC Heerenveen,Ajax Amsterdam,1,28. Matchday,2,1,1,0,0,Erik ten Hag,Away
+2021-04-08,2020,3538204,europa-league,Ajax Amsterdam,AS Roma,-1,Quarter-Finals 1st leg,1,2,0,0,1,Erik ten Hag,Home
+2021-04-11,2020,3450734,eredivisie,RKC Waalwijk,Ajax Amsterdam,1,29. Matchday,1,0,1,0,0,Erik ten Hag,Away
+2021-04-15,2020,3538212,europa-league,AS Roma,Ajax Amsterdam,-1,Quarter-Finals 2nd leg,1,1,0,1,0,Erik ten Hag,Away
+2021-04-18,2020,3538215,toto-knvb-beker,Ajax Amsterdam,Vitesse Arnhem,-1,Final,2,1,1,0,0,Erik ten Hag,Home
+2021-04-22,2020,3450725,eredivisie,Ajax Amsterdam,FC Utrecht,1,21. Matchday,1,1,0,1,0,Erik ten Hag,Home
+2021-04-25,2020,3450728,eredivisie,Ajax Amsterdam,AZ Alkmaar,1,30. Matchday,2,0,1,0,0,Erik ten Hag,Home
+2021-05-02,2020,3450736,eredivisie,Ajax Amsterdam,FC Emmen,1,31. Matchday,4,0,1,0,0,Erik ten Hag,Home
+2021-05-09,2020,3450732,eredivisie,Feyenoord Rotterdam,Ajax Amsterdam,1,32. Matchday,3,0,1,0,0,Erik ten Hag,Away
+2021-05-13,2020,3450712,eredivisie,Ajax Amsterdam,VVV-Venlo,1,33. Matchday,3,1,1,0,0,Erik ten Hag,Home
+2021-05-16,2020,3450778,eredivisie,Vitesse Arnhem,Ajax Amsterdam,1,34. Matchday,3,1,1,0,0,Erik ten Hag,Away
+2021-08-07,2021,3605432,johan-cruijff-schaal,Ajax Amsterdam,PSV Eindhoven,-1,Final,0,4,0,0,1,Erik ten Hag,Home
+2021-08-14,2021,3580960,eredivisie,Ajax Amsterdam,NEC Nijmegen,1,1. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2021-08-22,2021,3580979,eredivisie,Twente Enschede FC,Ajax Amsterdam,4,2. Matchday,1,1,0,1,0,Erik ten Hag,Away
+2021-08-29,2021,3597828,eredivisie,Ajax Amsterdam,Vitesse Arnhem,2,3. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2021-09-11,2021,3597805,eredivisie,PEC Zwolle,Ajax Amsterdam,2,4. Matchday,2,0,1,0,0,Erik ten Hag,Away
+2021-09-15,2021,3651042,uefa-champions-league,Sporting CP,Ajax Amsterdam,-1,Group C,5,1,1,0,0,Erik ten Hag,Away
+2021-09-18,2021,3597816,eredivisie,Ajax Amsterdam,SC Cambuur Leeuwarden,1,5. Matchday,9,0,1,0,0,Erik ten Hag,Home
+2021-09-21,2021,3597831,eredivisie,Fortuna Sittard,Ajax Amsterdam,1,6. Matchday,5,0,1,0,0,Erik ten Hag,Away
+2021-09-25,2021,3597849,eredivisie,Ajax Amsterdam,FC Groningen,1,7. Matchday,3,0,1,0,0,Erik ten Hag,Home
+2021-09-28,2021,3651065,uefa-champions-league,Ajax Amsterdam,Besiktas JK,-1,Group C,2,0,1,0,0,Erik ten Hag,Home
+2021-10-03,2021,3597890,eredivisie,Ajax Amsterdam,FC Utrecht,1,8. Matchday,0,1,0,0,1,Erik ten Hag,Home
+2021-10-16,2021,3597859,eredivisie,SC Heerenveen,Ajax Amsterdam,1,9. Matchday,2,0,1,0,0,Erik ten Hag,Away
+2021-10-19,2021,3651082,uefa-champions-league,Ajax Amsterdam,Borussia Dortmund,-1,Group C,4,0,1,0,0,Erik ten Hag,Home
+2021-10-24,2021,3597848,eredivisie,Ajax Amsterdam,PSV Eindhoven,1,10. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2021-10-30,2021,3597868,eredivisie,Heracles Almelo,Ajax Amsterdam,1,11. Matchday,0,0,0,1,0,Erik ten Hag,Away
+2021-11-03,2021,3651106,uefa-champions-league,Borussia Dortmund,Ajax Amsterdam,-1,Group C,3,1,1,0,0,Erik ten Hag,Away
+2021-11-07,2021,3597878,eredivisie,Ajax Amsterdam,Go Ahead Eagles,2,12. Matchday,0,0,0,1,0,Erik ten Hag,Home
+2021-11-21,2021,3597898,eredivisie,RKC Waalwijk,Ajax Amsterdam,2,13. Matchday,5,0,1,0,0,Erik ten Hag,Away
+2021-11-24,2021,3651121,uefa-champions-league,Besiktas JK,Ajax Amsterdam,-1,Group C,2,1,1,0,0,Erik ten Hag,Away
+2021-11-28,2021,3597943,eredivisie,Sparta Rotterdam,Ajax Amsterdam,1,14. Matchday,1,0,1,0,0,Erik ten Hag,Away
+2021-12-02,2021,3597916,eredivisie,Ajax Amsterdam,Willem II Tilburg,1,15. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2021-12-07,2021,3651130,uefa-champions-league,Ajax Amsterdam,Sporting CP,-1,Group C,4,2,1,0,0,Erik ten Hag,Home
+2021-12-12,2021,3597909,eredivisie,Ajax Amsterdam,AZ Alkmaar,2,16. Matchday,1,2,0,0,1,Erik ten Hag,Home
+2021-12-15,2021,3690090,toto-knvb-beker,Ajax Amsterdam,,-1,Second Round,4,0,1,0,0,Erik ten Hag,Home
+2021-12-19,2021,3597927,eredivisie,Feyenoord Rotterdam,Ajax Amsterdam,2,17. Matchday,2,0,1,0,0,Erik ten Hag,Away
+2021-12-22,2021,3597965,eredivisie,Ajax Amsterdam,Fortuna Sittard,2,18. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2022-01-16,2021,3597989,eredivisie,FC Utrecht,Ajax Amsterdam,2,19. Matchday,3,0,1,0,0,Erik ten Hag,Away
+2022-01-20,2021,3733612,toto-knvb-beker,Ajax Amsterdam,,-1,Third Round,9,0,1,0,0,Erik ten Hag,Home
+2022-01-23,2021,3597955,eredivisie,PSV Eindhoven,Ajax Amsterdam,1,20. Matchday,2,1,1,0,0,Erik ten Hag,Away
+2022-02-06,2021,3597938,eredivisie,Ajax Amsterdam,Heracles Almelo,1,21. Matchday,3,0,1,0,0,Erik ten Hag,Home
+2022-02-09,2021,3736635,toto-knvb-beker,Ajax Amsterdam,Vitesse Arnhem,-1,Quarter-Finals,5,0,1,0,0,Erik ten Hag,Home
+2022-02-13,2021,3598016,eredivisie,Ajax Amsterdam,Twente Enschede FC,1,22. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2022-02-19,2021,3597983,eredivisie,Willem II Tilburg,Ajax Amsterdam,1,23. Matchday,1,0,1,0,0,Erik ten Hag,Away
+2022-02-23,2021,3714216,uefa-champions-league,SL Benfica,Ajax Amsterdam,-1,last 16 1st leg,2,2,0,1,0,Erik ten Hag,Away
+2022-02-27,2021,3598025,eredivisie,Go Ahead Eagles,Ajax Amsterdam,1,24. Matchday,1,2,0,0,1,Erik ten Hag,Away
+2022-03-03,2021,3761905,toto-knvb-beker,AZ Alkmaar,Ajax Amsterdam,-1,Semi-Finals,2,0,1,0,0,Erik ten Hag,Away
+2022-03-06,2021,3598023,eredivisie,Ajax Amsterdam,RKC Waalwijk,1,25. Matchday,3,2,1,0,0,Erik ten Hag,Home
+2022-03-11,2021,3598009,eredivisie,SC Cambuur Leeuwarden,Ajax Amsterdam,1,26. Matchday,3,2,1,0,0,Erik ten Hag,Away
+2022-03-15,2021,3714224,uefa-champions-league,Ajax Amsterdam,SL Benfica,-1,last 16 2nd leg,0,1,0,0,1,Erik ten Hag,Home
+2022-03-20,2021,3597966,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,1,27. Matchday,3,2,1,0,0,Erik ten Hag,Home
+2022-04-02,2021,3598030,eredivisie,FC Groningen,Ajax Amsterdam,1,28. Matchday,3,1,1,0,0,Erik ten Hag,Away
+2022-04-09,2021,3598018,eredivisie,Ajax Amsterdam,Sparta Rotterdam,1,29. Matchday,2,1,1,0,0,Erik ten Hag,Home
+2022-04-17,2021,3761906,toto-knvb-beker,PSV Eindhoven,Ajax Amsterdam,-1,Final,1,2,0,0,1,Erik ten Hag,Away
+2022-04-23,2021,3597998,eredivisie,NEC Nijmegen,Ajax Amsterdam,1,30. Matchday,1,0,1,0,0,Erik ten Hag,Away
+2022-04-30,2021,3598014,eredivisie,Ajax Amsterdam,PEC Zwolle,1,31. Matchday,3,0,1,0,0,Erik ten Hag,Home
+2022-05-08,2021,3598021,eredivisie,AZ Alkmaar,Ajax Amsterdam,1,32. Matchday,2,2,0,1,0,Erik ten Hag,Away
+2022-05-11,2021,3598013,eredivisie,Ajax Amsterdam,SC Heerenveen,1,33. Matchday,5,0,1,0,0,Erik ten Hag,Home
+2022-05-15,2021,3598061,eredivisie,Vitesse Arnhem,Ajax Amsterdam,1,34. Matchday,2,2,0,1,0,Erik ten Hag,Away
+2022-07-30,2022,3837323,johan-cruijff-schaal,Ajax Amsterdam,PSV Eindhoven,-1,Final,3,5,0,0,1,Alfred Schreuder,Home
+2022-08-06,2022,3836750,eredivisie,Fortuna Sittard,Ajax Amsterdam,5,1. Matchday,3,2,1,0,0,Alfred Schreuder,Away
+2022-08-14,2022,3837219,eredivisie,Ajax Amsterdam,FC Groningen,1,2. Matchday,6,1,1,0,0,Alfred Schreuder,Home
+2022-08-21,2022,3837234,eredivisie,Sparta Rotterdam,Ajax Amsterdam,3,3. Matchday,1,0,1,0,0,Alfred Schreuder,Away
+2022-08-28,2022,3837391,eredivisie,FC Utrecht,Ajax Amsterdam,2,4. Matchday,2,0,1,0,0,Alfred Schreuder,Away
+2022-09-03,2022,3837396,eredivisie,Ajax Amsterdam,SC Cambuur Leeuwarden,1,5. Matchday,4,0,1,0,0,Alfred Schreuder,Home
+2022-09-07,2022,3911722,uefa-champions-league,Ajax Amsterdam,Rangers FC,-1,Group A,4,0,1,0,0,Alfred Schreuder,Home
+2022-09-10,2022,3839700,eredivisie,Ajax Amsterdam,SC Heerenveen,1,6. Matchday,5,0,1,0,0,Alfred Schreuder,Home
+2022-09-13,2022,3913722,uefa-champions-league,Liverpool FC,Ajax Amsterdam,-1,Group A,1,2,0,0,1,Alfred Schreuder,Away
+2022-09-18,2022,3839715,eredivisie,AZ Alkmaar,Ajax Amsterdam,2,7. Matchday,1,2,0,0,1,Alfred Schreuder,Away
+2022-10-01,2022,3852567,eredivisie,Ajax Amsterdam,Go Ahead Eagles,2,8. Matchday,1,1,0,1,0,Alfred Schreuder,Home
+2022-10-04,2022,3913725,uefa-champions-league,Ajax Amsterdam,SSC Napoli,-1,Group A,1,6,0,0,1,Alfred Schreuder,Home
+2022-10-08,2022,3852575,eredivisie,FC Volendam,Ajax Amsterdam,2,9. Matchday,4,2,1,0,0,Alfred Schreuder,Away
+2022-10-12,2022,3911726,uefa-champions-league,SSC Napoli,Ajax Amsterdam,-1,Group A,2,4,0,0,1,Alfred Schreuder,Away
+2022-10-16,2022,3852585,eredivisie,Ajax Amsterdam,Excelsior Rotterdam,1,10. Matchday,7,1,1,0,0,Alfred Schreuder,Home
+2022-10-22,2022,3852593,eredivisie,RKC Waalwijk,Ajax Amsterdam,1,11. Matchday,4,1,1,0,0,Alfred Schreuder,Away
+2022-10-26,2022,3911720,uefa-champions-league,Ajax Amsterdam,Liverpool FC,-1,Group A,0,3,0,0,1,Alfred Schreuder,Home
+2022-11-01,2022,3911729,uefa-champions-league,Rangers FC,Ajax Amsterdam,-1,Group A,3,1,1,0,0,Alfred Schreuder,Away
+2022-11-06,2022,3852610,eredivisie,Ajax Amsterdam,PSV Eindhoven,3,13. Matchday,1,2,0,0,1,Alfred Schreuder,Home
+2022-11-09,2022,3852601,eredivisie,Ajax Amsterdam,Vitesse Arnhem,1,12. Matchday,2,2,0,1,0,Alfred Schreuder,Home
+2022-11-12,2022,3852619,eredivisie,FC Emmen,Ajax Amsterdam,2,14. Matchday,3,3,0,1,0,Alfred Schreuder,Away
+2023-01-08,2022,3852634,eredivisie,NEC Nijmegen,Ajax Amsterdam,2,15. Matchday,1,1,0,1,0,Alfred Schreuder,Away
+2023-01-11,2022,3998922,toto-knvb-beker,,Ajax Amsterdam,-1,Second Round,2,0,1,0,0,Alfred Schreuder,Away
+2023-01-14,2022,3852640,eredivisie,Ajax Amsterdam,Twente Enschede FC,3,16. Matchday,0,0,0,1,0,Alfred Schreuder,Home
+2023-01-22,2022,3852653,eredivisie,Feyenoord Rotterdam,Ajax Amsterdam,5,17. Matchday,1,1,0,1,0,Alfred Schreuder,Away
+2023-01-26,2022,3852663,eredivisie,Ajax Amsterdam,FC Volendam,5,18. Matchday,1,1,0,1,0,Alfred Schreuder,Home
+2023-01-29,2022,3852670,eredivisie,Excelsior Rotterdam,Ajax Amsterdam,4,19. Matchday,4,1,1,0,0,Johnny Heitinga,Away
+2023-02-05,2022,3852696,eredivisie,SC Cambuur Leeuwarden,Ajax Amsterdam,3,20. Matchday,5,0,1,0,0,Johnny Heitinga,Away
+2023-02-09,2022,4002938,toto-knvb-beker,Twente Enschede FC,Ajax Amsterdam,-1,Round of 16,1,0,1,0,0,Johnny Heitinga,Away
+2023-02-12,2022,3852673,eredivisie,Ajax Amsterdam,RKC Waalwijk,3,21. Matchday,3,1,1,0,0,Johnny Heitinga,Home
+2023-02-16,2022,3956712,europa-league,Ajax Amsterdam,1.FC Union Berlin,-1,intermediate stage 1st leg,0,0,0,1,0,Johnny Heitinga,Home
+2023-02-19,2022,3852682,eredivisie,Ajax Amsterdam,Sparta Rotterdam,2,22. Matchday,4,0,1,0,0,Johnny Heitinga,Home
+2023-02-23,2022,3956720,europa-league,1.FC Union Berlin,Ajax Amsterdam,-1,intermediate stage 2nd leg,1,3,0,0,1,Johnny Heitinga,Away
+2023-02-26,2022,3852708,eredivisie,Vitesse Arnhem,Ajax Amsterdam,2,23. Matchday,2,1,1,0,0,Johnny Heitinga,Away
+2023-03-02,2022,4025322,toto-knvb-beker,De Graafschap Doetinchem,Ajax Amsterdam,-1,Quarter-Finals,3,0,1,0,0,Johnny Heitinga,Away
+2023-03-05,2022,3852709,eredivisie,Ajax Amsterdam,NEC Nijmegen,2,24. Matchday,1,0,1,0,0,Johnny Heitinga,Home
+2023-03-12,2022,3852725,eredivisie,SC Heerenveen,Ajax Amsterdam,2,25. Matchday,4,2,1,0,0,Johnny Heitinga,Away
+2023-03-19,2022,3852727,eredivisie,Ajax Amsterdam,Feyenoord Rotterdam,2,26. Matchday,2,3,0,0,1,Johnny Heitinga,Home
+2023-04-02,2022,3852740,eredivisie,Go Ahead Eagles,Ajax Amsterdam,2,27. Matchday,0,0,0,1,0,Johnny Heitinga,Away
+2023-04-05,2022,4035609,toto-knvb-beker,Feyenoord Rotterdam,Ajax Amsterdam,-1,Semi-Finals,2,1,1,0,0,Johnny Heitinga,Away
+2023-04-09,2022,3852745,eredivisie,Ajax Amsterdam,Fortuna Sittard,2,28. Matchday,4,0,1,0,0,Johnny Heitinga,Home
+2023-04-16,2022,3852754,eredivisie,Ajax Amsterdam,FC Emmen,2,29. Matchday,3,1,1,0,0,Johnny Heitinga,Home
+2023-04-23,2022,3852769,eredivisie,PSV Eindhoven,Ajax Amsterdam,3,30. Matchday,0,3,0,0,1,Johnny Heitinga,Away
+2023-04-30,2022,4056454,toto-knvb-beker,Ajax Amsterdam,PSV Eindhoven,-1,Final,3,4,0,0,1,Johnny Heitinga,Home
+2023-05-06,2022,3852772,eredivisie,Ajax Amsterdam,AZ Alkmaar,3,31. Matchday,0,0,0,1,0,Johnny Heitinga,Home
+2023-05-14,2022,3852782,eredivisie,FC Groningen,Ajax Amsterdam,3,32. Matchday,3,2,1,0,0,Johnny Heitinga,Away
+2023-05-21,2022,3852790,eredivisie,Ajax Amsterdam,FC Utrecht,3,33. Matchday,3,1,1,0,0,Johnny Heitinga,Home
+2023-05-28,2022,3852805,eredivisie,Twente Enschede FC,Ajax Amsterdam,3,34. Matchday,1,3,0,0,1,Johnny Heitinga,Away
